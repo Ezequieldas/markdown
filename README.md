@@ -1,4 +1,4 @@
-# Aprendiendo _Markdown_
+# Básicos de _Markdown_
 ---
 ### Negrita y cursiva
 ---
@@ -71,6 +71,7 @@ function sumar (a,b){
 ### Ignorar Markdown
 ---
 
-\*negrita*\
+\*negrita*
+\_cursiva_
 
 
